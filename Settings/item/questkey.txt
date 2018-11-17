@@ -1,0 +1,82 @@
+Name	Genre	Detail	Image	ObjId	Width	Height	Intro	Price	CanSale	CanRemove	Stack	ShortKey
+Vâ L©m Th¸nh Háa LÖnh	4	0	\spr\item\questkey\taskobj132.spr	387	1	1	LÖnh bµi quyÒn n¨ng	0	0	0	0	0
+Nh¹c V­¬ng KiÕm	4	1	\spr\item\questkey\ÔÀÍõ½£.spr	41	2	3	Béi kiÕm cña Nh¹c Phi, tİn vËt ®Ó kiÕn lËp bang héi	0	1	0	0	0
+Nh¹c V­¬ng Hån Th¹ch	4	2	\spr\item\questkey\taskobj105.spr	41	1	1	T×m ®ñ sè l­îng cã thÓ mang ®Õn Qu©n Nhu quan trong chiÕn Tr­êng Tèng Kim ®óc thµnh <color=blue>Nh¹c V­¬ng kiÕm <color>.	0	1	0	50	0
+ThiÕu L©m QuyÒn Ph¸p. QuyÓn 1	4	3	\spr\item\questkey\obj_item_lection.spr	341	1	1	ThiÕu L©m QuyÒn Ph¸p, luyÖn tËp sÏ thuÇn thôc <§¹t Ma §é Giang> kü n¨ng.	25	1	0	0	0
+ThiÕu L©m §ao ph¸p. QuyÓn 3	4	4	\spr\item\questkey\obj_item_lection.spr	341	1	1	ThiÕu L©m §ao ph¸p, luyÖn tËp sÏ thuÇn thôc <V« T­íng Tr¶m>.	25	1	0	0	0
+ThiÕu L©m C«n ph¸p. QuyÓn 2	4	5	\spr\item\questkey\obj_item_lection.spr	341	1	1	ThiÕu L©m C«n ph¸p, luyÖn tËp sÏ thuÇn thôc <Hoµnh T¶o Thiªn Qu©n>.	25	1	0	0	0
+Thiªn V­¬ng Th­¬ng ph¸p. QuyÓn 2	4	6	\spr\item\questkey\obj_item_lection.spr	341	1	1	Bªn trong ghi l¹i nh÷ng tuyÖt kü Truy Tinh Trôc NguyÖt 	25	1	0	0	0
+Thiªn V­¬ng Chïy Ph¸p. QuyÓn 1	4	7	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch Thiªn V­¬ng bang, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	25	1	0	0	0
+Thiªn V­¬ng §ao ph¸p.QuyÓn 3	4	8	\spr\item\questkey\obj_item_lection.spr	341	1	1	Thiªn V­¬ng §ao Ph¸p, QuyÓn 3, häc thuéc sÏ thuÇn thôc Truy phong QuyÕt	25	1	0	0	0
+Tô TiÔn thuËt. B¹o Vò Lª Hoa	4	9	\spr\item\questkey\obj_item_lection.spr	341	1	1	YÕu quyÕt B¹o Vò Lª Hoa, siªng luyÖn tËp sÏ thuÇn thôc kü n¨ng B¹o Vò Lª Hoa.	25	1	0	0	0
+Phi §ao thuËt. NhiÕp Hån NguyÖt ¶nh	4	10	\spr\item\questkey\obj_item_lection.spr	341	1	1	§­êng m«n Phi §ao thuËt, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc NhiÕp hån NguyÖt ¶nh	25	1	0	0	0
+Phi Tiªu thuËt. Cöu Cung Phi Tinh	4	11	\spr\item\questkey\obj_item_lection.spr	341	1	1	§­êng m«n Phi Tiªu thuËt, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	25	1	0	0	0
+H·m TÜnh thuËt.Lo¹n Hoµn Kİch	4	12	\spr\item\questkey\obj_item_lection.spr	341	1	1	bİ truyÒn cña §­êng m«n, siªng luyÖn tËp sÏ thuÇn thôc kü n¨ng Lo¹n Hoµn Kİch.	25	1	0	0	0
+Ngò §éc Ch­ëng Ph¸p. QuyÓn 1	4	13	\spr\item\questkey\obj_item_lection.spr	341	1	1	Ngò §éc Ch­ëng Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc ¢m Phong Thùc Cèt	25	1	0	0	0
+Ngò §éc §ao ph¸p. QuyÓn 2	4	14	\spr\item\questkey\obj_item_lection.spr	341	1	1	Ngò §éc §ao Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc HuyÒn ¢m Tr¶m	25	1	0	0	0
+Ngò §éc NhiÕp T©m thuËt. QuyÓn 3	4	15	\spr\item\questkey\obj_item_lection.spr	341	1	1	Ngò §éc t©m ph¸p, luyÖn tËp sÏ thuÇn thôc <§o¹n C©n Hñ Cèt >	25	1	0	0	0
+Nga Mi  PhËt Quang Ch­ëng MËt TŞch	4	16	\spr\item\questkey\obj_item_lection.spr	341	1	1	Nga Mi MËt tŞch, h­íng dÉn luyÖn tËp <Phong S­¬ng To¸i ¶nh>.	25	1	0	0	0
+DiÖt KiÕm MËt TŞch	4	17	\spr\item\questkey\obj_item_lection.spr	341	1	1	Nga Mi MËt TŞch, ghi l¹i nh÷ng chiªu kiÕm tuyÖt kü cña Nga Mi 	25	1	0	0	0
+Phæ §é MËt TŞch	4	18	\spr\item\questkey\obj_item_lection.spr	341	1	1	Phæ §é MËt TŞch, ghi chó chiªu thøc <Phæ §é Chóng Sinh>	25	1	0	0	0
+Thóy Yªn §ao ph¸p	4	19	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch Thóy Yªn m«n, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	25	1	0	0	0
+Thóy Yªn Song ®ao	4	20	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch  song ®ao, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	25	1	0	0	0
+C¸i Bang Ch­ëng Ph¸p	4	21	\spr\item\questkey\obj_item_lection.spr	341	1	1	C¸i Bang Ch­ëng Ph¸p, luyÖn tËp sÏ thuÇn thôc <Phi Long T¹i Thiªn>	25	1	0	0	0
+C¸i Bang C«n ph¸p	4	22	\spr\item\questkey\obj_item_lection.spr	341	1	1	C¸i Bang C«n ph¸p, luyÖn tËp sÏ thuÇn thôc <Thiªn H¹ V« CÈu>.	25	1	0	0	0
+L­u Tinh. §ao ph¸p	4	23	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch Thiªn NhÉn, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	25	1	0	0	0
+V©n Long Kİch. M©u ph¸p	4	24	\spr\item\questkey\obj_item_lection.spr	341	1	1	Ghi l¹i chiªu thøc cao cÊp cña Thiªn NhÉn m©u ph¸p, häc xong sÏ lÜnh héi ®­îc chiªu thøc <V©n Long Kİch>.	25	1	0	0	0
+NhiÕp Hån. Chó thuËt	4	25	\spr\item\questkey\obj_item_lection.spr	341	1	1	Chiªu thøc bïa chó cao cÊp cña Thiªn nhÉn, häc xong sÏ lÜnh héi ®­îc <NhiÕp hån lo¹n t©m>.	25	1	0	0	0
+Th¸i Cùc QuyÒn Phæ. QuyÓn 3	4	26	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch  Vâ §ang, xem tõ tõ cã thÓ hiÓu	25	1	0	0	0
+Th¸i Cùc KiÕm Phæ. QuyÓn 2	4	27	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch kü n¨ng Vâ §ang, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	25	1	0	0	0
+Ngù L«i thuËt	4	28	\spr\item\questkey\obj_item_lection.spr	341	1	1	C«n L«n KiÕm Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc L«i ®éng Cöu Thiªn 	25	1	0	0	0
+Ngù Phong thuËt	4	29	\spr\item\questkey\obj_item_lection.spr	341	1	1	C«n L«n §ao Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc Ng¹o TuyÕt Tiªu Phong	25	1	0	0	0
+Ngù T©m thuËt	4	30	\spr\item\questkey\obj_item_lection.spr	341	1	1	C«n L«n t©m Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc Tóy Tiªn T¸ Cèt	25	1	0	0	0
+Tö Môc Tóc 	4	31	\spr\item\questkey\taskobj099.spr	41	1	1	VËt phÈm nhiÖm vô  	0	1	0	0	0
+§Şa CÈm Th¶o 	4	32	\spr\item\questkey\taskobj100.spr	41	1	1	VËt phÈm nhiÖm vô  	0	1	0	0	0
+ThiÕn Th¶o 	4	33	\spr\item\questkey\taskobj101.spr	41	1	1	VËt phÈm nhiÖm vô  	0	1	0	0	0
+Hæ NhÜ Th¶o 	4	34	\spr\item\questkey\taskobj102.spr	41	1	1	VËt phÈm nhiÖm vô  	0	1	0	0	0
+Linh Chi	4	35	\spr\item\questkey\taskobj103.spr	41	1	1	Tiªn d­îc, t¨ng c­êng khİ lùc, cã thÓ c¶i tö hoµn sinh 	0	1	0	0	0
+DŞch tr¹m hµm th­ 	4	36	\spr\item\questkey\taskobj075.spr	41	1	1	Hµm th­ khÈn ®­a ®Õn Ph­îng T­êng	0	0	0	0	0
+DŞch tr¹m hµm th­ 	4	37	\spr\item\questkey\taskobj075.spr	41	1	1	Hµm th­ khÈn ®­a ®Õn Thµnh §« 	0	0	0	0	0
+DŞch tr¹m hµm th­ 	4	38	\spr\item\questkey\taskobj075.spr	41	1	1	Hµm th­ khÈn ®­a ®Õn §¹i Lı 	0	0	0	0	0
+DŞch tr¹m hµm th­ 	4	39	\spr\item\questkey\taskobj075.spr	41	1	1	Hµm th­ khÈn ®­a ®Õn BiÖn Kinh	0	0	0	0	0
+DŞch tr¹m hµm th­ 	4	40	\spr\item\questkey\taskobj075.spr	41	1	1	Hµm th­ khÈn ®­a ®Õn T­¬ng D­¬ng	0	0	0	0	0
+DŞch tr¹m hµm th­ 	4	41	\spr\item\questkey\taskobj075.spr	41	1	1	Hµm th­ khÈn ®­a ®Õn D­¬ng Ch©u	0	0	0	0	0
+DŞch tr¹m hµm th­ 	4	42	\spr\item\questkey\taskobj075.spr	41	1	1	Hµm th­ khÈn ®­a ®Õn L©m An	0	0	0	0	0
+Tói th­ cña Long Ngò 	4	43	\spr\item\obj_item_jixiang.spr	347	1	1	Tói v¶i cña Long Ngò, bªn trong cã chøa vµi bøc mËt hµm, nhÊp chuét ph¶i ®Ó më.	0	0	0	0	0
+Tói th­ cña Long Ngò 	4	44	\spr\item\obj_item_jixiang.spr	347	1	1	Tói v¶i cña Long Ngò, bªn trong cã chøa vµi bøc mËt hµm, nhÊp chuét ph¶i ®Ó më.	0	0	0	0	0
+Tói th­ cña Long Ngò 	4	45	\spr\item\obj_item_jixiang.spr	347	1	1	Tói v¶i cña Long Ngò, bªn trong cã chøa vµi bøc mËt hµm, nhÊp chuét ph¶i ®Ó më.	0	0	0	0	0
+Th­ Long Ngò göi cho Ch¸nh ph¸i	4	46	\spr\item\questkey\taskobj075.spr	41	1	1	NhÊn chuét ph¶i ®Ó më 	0	0	0	0	0
+Th­ Long Ngò göi cho Trung lËp 	4	47	\spr\item\questkey\taskobj090.spr	41	1	1	NhÊn chuét ph¶i ®Ó më 	0	0	0	0	0
+Th­ Long Ngò göi cho Tµ ph¸i	4	48	\spr\item\questkey\taskobj091.spr	41	1	1	NhÊn chuét ph¶i ®Ó më 	0	0	0	0	0
+Th­ göi M¹c SÇu	4	49	\spr\item\questkey\taskobj090.spr	38	1	1	Th­ Long Ngò giíi thiÖu b¹n víi M¹c SÇu 	0	0	0	0	0
+Th­ göi Phã Nam B¨ng	4	50	\spr\item\questkey\taskobj091.spr	38	1	1	Th­ Long Ngò giíi thiÖu b¹n víi Phã Nam Bang 	0	0	0	0	0
+Th­ göi V©n Nhi	4	51	\spr\item\questkey\taskobj075.spr	38	1	1	Th­ Long Ngò giíi thiÖu b¹n víi V©n Nhi 	0	0	0	0	0
+L­îng Ng©n Kho¸ng 	4	52	\spr\item\questkey\taskobj105.spr	41	1	1	Kho¸ng th¹ch dïng ®Ó v¸ g­¬ng ®ång	0	1	0	0	0
+Xİch §ång kho¸ng 	4	53	\spr\item\questkey\taskobj108.spr	41	1	1	1 lo¹i kho¸ng th¹ch.	0	1	0	0	0
+Tõ ThiÕt Kho¸ng 	4	54	\spr\item\questkey\taskobj125.spr	41	1	1	1 lo¹i kho¸ng th¹ch.	0	1	0	0	0
+Tö Yªn Ngäc Béi 	4	55	\spr\item\questkey\taskobj140.spr	41	1	1	Mét miÕng Thóy Ngäc Ngäc Béi ®· cò, ®iªu kh¶m rÊt ®Ñp	0	0	0	0	0
+Tranh ch÷ 	4	56	\spr\item\questkey\taskobj141.spr	41	1	1	Mét bøc tranh ch÷ cæ x­a 	0	0	0	0	0
+Tú Bµ hoµn	4	57	\spr\item\questkey\taskobj144.spr	41	1	1	Lo¹i thuèc th­êng dïng ®Ó trŞ phong hµn.	0	0	0	0	0
+Hoa tai 	4	58	\spr\item\questkey\taskobj145.spr	41	1	1	Mét ®«i khuyªn tai nhá b»ng vµng.	0	0	0	0	0
+Xuyªn Bèi hoµn	4	59	\spr\item\questkey\taskobj144.spr	41	1	1	Lo¹i thuèc th­êng dïng ®Ó trŞ ho	0	0	0	0	0
+Ch¹c c©y 	4	60	\spr\item\questkey\taskobj142.spr	41	1	1	Nh¸nh c©y cã h×nh ch÷ Y.	0	0	0	0	0
+Da tr©u 	4	61	\spr\item\questkey\taskobj143.spr	41	1	1	Lo¹i da Tr©u thuéc theo c¸ch th«ng th­êng 	0	0	0	0	0
+Giµn n¸ 	4	62	\spr\item\questkey\taskobj139.spr	41	1	1	Mét c¸i giµn n¸ võa lµm xong	0	0	0	0	0
+Tİn vËt m«n ph¸i	4	63	\spr\item\script\zhuanzhiling.spr	41	1	1	VËt phÈm cÇn thiÕt ®Ó chuyÓn ®æi m«n ph¸i	0	1	0	0	0
+<B¾c §Èu Tr­êng Sinh ThuËt - C¬ Së Thiªn>	4	64	\spr\item\questkey\obj_item_lection.spr	341	1	1	§©y lµ tuyÖt ®Ønh vâ c«ng trong truyÒn thuyÕt, bÊm chuét ph¶i ®Ó lÜnh ngé B¾c §Èu Tr­êng Sinh ThuËt.<enter>CÊp 199 trë lªn cã thÓ sö dông.	1	1	0	0	0
+Khiªu ChiÕn LÖnh 	4	65	\spr\item\questkey\taskobj126.spr	336	1	1	Tİn vËt c«ng thµnh chiÕn.	100	0	0	50	0
+GameMaster	4	66	\spr\item\task\stunt.spr	336	1	1	<bclr=white><color=red>LÖnh Bµi Admin...!	500	0	0	0	0
+LÖnh bµi Test	4	67	\spr\event\camnagdo.spr	336	1	1	<bclr=white><color=red>LÖnh Bµi Test...!	500	0	1	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Nh¹n Phi YÕn)	4	68	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	0	0	0	0	0
+û Thiªn KiÕm	4	69	\spr\item\questkey\ÔÀÍõ½£.spr	41	2	3	B¶o KiÕm Uy Lùc V« Song	0	1	0	0	0
+MËt th­ cña NguyÖt Ca §¶o Chñ 	4	70	\spr\item\script\yuegeling.spr	41	1	1	<bclr=white> <color=red> NhÊn chuét ph¶i ®Ó më. 	0	0	0	0	0
+H­íng dÉn nhiÖm vô 	4	71	\spr\item\script\wuxuejinyao.spr	41	1	1	<bclr=white> <color=red> NhÊn chuét ph¶i ®Ó më. 	0	0	0	0	0
+Phong Ên Boss §Ønh Cao(Cuång S­ §Ö NhÊt §ao)	4	72	\spr\item\script\jinpai_haozhao.spr	41	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Hiªn Viªn ThÊt S¸t)	4	73	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(§éc C« V« §Şch)	4	74	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên Boss §Ønh Cao(Ngò §éc B¸ch Nh©n)	4	75	\spr\item\script\yupai_haozhao.spr	41	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Ma V©n LiÖt DiÖm)	4	76	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Cöu DiÖm L­u Liªn)	4	77	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Phong Ên LÖnh Bµi TruyÒn ThuyÕt(Chİ T«n §µo B¸)	4	78	\spr\item\questkey\obj_item_herokey3.spr	352	1	1	<bclr=white><color=red>Lo¹i Boss Trong truyÒn thuyÕt cùc kú nguy hiÓm.§· ®­îc phong Ên!	20	1	0	0	0
+Tói Hµnh Trang	4	79	\spr\item\questkey\obj_item_hehuan.spr	348	1	1	<color=yellow>Dïng ®Ó gia h¹n tói hµnh trang thªm 30 ngµy.NhÊn chuét ph¶i ®Ó sö dông.	0	1	0	0	0
+CÈm Nang Hç Trî 	4	80	\spr\item\leaguematch\ronghezhenjin.spr	336	1	1	<bclr=white><color=red>LÖnh Bµi T©n Thñ...!	500	0	0	0	0

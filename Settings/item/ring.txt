@@ -1,0 +1,11 @@
+Name	ItemGenre	DetailType	ParticularType	Image	ObjDrop	Width	Height	Descript	Series	Price	Level	Stack	Magic1	Min1	Max1	Magic2	Min2	Max2	Magic3	Min3	Max3	Magic4	Min4	Max4	Magic5	Min5	Max5	Magic6	Min6	Max6	Magic7	Min7	Max7	Require1	Data1	Require2	Data2	Require3	Data3	Require4	Data4	Require5	Data5	Require6	Data6
+Hoµng Ngäc Giíi ChØ 	0	3	0	\spr\item\equip\ring\obj-ring01.spr	37	1	1	Lo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng thÊy, kh«ng ®¸ng gi¸. 		300	1	0																						36	1										
+NhÉn Qu¶ Tr¸m	0	3	0	\spr\item\equip\ring\obj-ring02.spr	37	1	1	Lo¹i nhÉn ®eo b»ng qu¶ tr¸m th­êng thÊy, kh«ng ®¸ng gi¸. 		1200	2	0																						36	7										
+Phï Dung Th¹ch Giíi ChØ 	0	3	0	\spr\item\equip\ring\obj-ring03.spr	37	1	1	Lo¹i nhÉn ®­îc kh¶m vµo nh÷ng h¹t M· N·o nhá, kh«ng quý l¾m. 		2700	3	0																						36	14										
+PhØ Thóy Giíi ChØ 	0	3	0	\spr\item\equip\ring\obj-ring04.spr	37	1	1	Lo¹i nhÉn ®eo rÊt hiÕm nh×n thÊy ®­îc, gi¸ trÞ cùc quý. 		4800	4	0																						36	20										
+Thóy Lùu Th¹ch Giíi ChØ 	0	3	0	\spr\item\equip\ring\obj-ring05.spr	37	1	1	Lo¹i nhÉn b»ng Thóy Lùu quý hiÕm, chØ nh÷ng ng­êi cã thanh danh míi ®­îc ®eo. 		7500	5	0																						36	27										
+Tæ MÉu Lôc Giíi ChØ 	0	3	0	\spr\item\equip\ring\obj-ring06.spr	37	1	1	Lo¹i nhÉn ®­îc kh¶m Tæ MÉu Lôc do MiÕn §iÖn tiÕn cèng, cùc kú cao quý. 		10800	6	0																						36	34										
+H¶i Lam B¶o Th¹ch Giíi ChØ 	0	3	0	\spr\item\equip\ring\obj-ring07.spr	37	1	1	Lo¹i nhÉn kh¶m H¶i Lam B¶o Th¹ch do c¸c th­¬ng nh©n n­íc ngoµi mang vµo, vËt phÈm cùc hiÕm. 		14700	7	0																						36	40										
+Hång B¶o Th¹ch Giíi ChØ 	0	3	0	\spr\item\equip\ring\obj-ring08.spr	37	1	1	Lo¹i nhÉn kh¶m Hång B¶o Th¹ch xuÊt xø tõ n­íc TÝch Lan nh­ng rÊt ®­îc l­u dông trong n­íc. 		19200	8	0																						36	47										
+Lam B¶o Th¹ch Giíi ChØ 	0	3	0	\spr\item\equip\ring\obj-ring09.spr	37	1	1	Lo¹i nhÉn kh¶m Lam B¶o Th¹ch do c¸c cao t¨ng mang tõ Thiªn Tróc vÒ, cùc kú cao quý. 		24300	9	0																						36	54										
+Toµn Th¹ch Giíi ChØ 	0	3	0	\spr\item\equip\ring\obj-ring10.spr	37	1	1	Lo¹i nhÉn kh¶m Toµn Th¹ch mang tõ h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn mét søc m¹nh thÇn bÝ.		30000	10	0																						36	60										

@@ -1,0 +1,2 @@
+Name	ItemGenre	DetailType	ParticularType	Image	ObjDrop	Width	Height	Descript	Series	Price	Level	Stack	Magic1	Min1	Max1	Magic2	Min2	Max2	Magic3	Min3	Max3	Magic4	Min4	Max4	Magic5	Min5	Max5	Magic6	Min6	Max6	Magic7	Min7	Max7	Require1	Data1	Require2	Data2	Require3	Data3	Require4	Data4	Require5	Data5	Require6	Data6
+Ngò Hµnh Ên	0	13	0	\spr\item\script\wuxingyin_1.spr	37	1	1	Ngò Hµnh Ên th«ng th­êng	5	999	1	0																																	0

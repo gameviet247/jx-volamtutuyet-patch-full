@@ -1,0 +1,2 @@
+名称	ItemGenre	动画文件名	对应物件索引	宽度	高度	价格	说明文字
+Tho Dia Phu	5	\spr\item\special\Obj_TownPortal.spr	38	1	1	500	Dung de bien ve thanh gan nhat.<enter>Co the mua o bat cu tiem tap hoa nao trong Vo Lam.

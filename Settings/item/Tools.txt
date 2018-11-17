@@ -1,0 +1,124 @@
+Name	Genre	Detail	Image	ObjId	Width	Height	Intro	Price	CanSale	CanRemove	Stack	ShortKey
+Phóc Duyªn Lé (TiÓu) 	2	0	\spr\item\medecine\fuyuanlu_small.spr	370	1	1	Sö dông sÏ t¨ng 10 ®iÓm Phóc duyªn	5	1	1	50	0
+Phóc Duyªn Lé (Trung) 	2	1	\spr\item\medecine\fuyuanlu_middle.spr	370	1	1	Sö dông sÏ t¨ng 20 ®iÓm Phóc duyªn	5	1	1	50	0
+Phóc Duyªn Lé (§¹i) 	2	2	\spr\item\medecine\fuyuanlu_big.spr	370	1	1	Sö dông sÏ t¨ng 50 ®iÓm Phóc duyªn	5	1	1	50	0
+B¹ch C©u Hoµn 90 cÊp	2	3	\spr\item\medecine\baijuwan_skillsp.spr	19	1	1	Sö dông cã thÓ nhanh chãng t¨ng møc ®é luyÖn cña kü n¨ng cÊp 90.	5	1	0	0	0
+ThÇn bÝ ®å chÝ 	2	4	\spr\item\questkey\taskobj076.spr	424	1	1	Mét m¶nh bøc ®Þa ®å S¬n Hµ X· T¾c	1000	0	0	0	0
+Ngò S¾c B¶o Ngäc (tiÓu)	2	5	\spr\item\questkey\taskobj017.spr	387	1	1	Bªn trong cã chøa 100 v¹n l­îng	0	1	0	0	0
+Ngò S¾c B¶o Ngäc (trung)	2	6	\spr\item\questkey\taskobj089.spr	387	1	1	Bªn trong cã chøa 1000 v¹n l­îng	0	1	0	0	0
+Phi Phong	2	7	\spr\item\obj_item_mantle.spr	338	1	1	Lo¹i ¸o kho¸c trang trÝ, cã thÓ kho¸c lªn bÊt cø lo¹i y phôc nµo	1	1	0	0	0
+Thæ ®Þa phï 	2	8	\spr\item\special\Obj_TownPortal.spr	38	1	1	LËp tøc quay vÒ n¬i võa ®i khái.	100	1	0	0	1
+Thæ ®Þa phï (sö dông v« h¹n) 	2	9	\spr\item\special\Obj_TownPortal.spr	38	1	1	LËp tøc trë l¹i n¬i võa ®Õn tr­íc ®ã (Sö dông v« h¹n) 	100	1	0	0	1
+ThÇn Hµnh Phï 	2	10	\spr\item\special\Obj_TownPortal_l.spr	38	1	1	ThÇn Hµnh ThuËt, lµm cho ®¹i hiÖp ®i bÊt cø thµnh thÞ th«n trÊn chØ ®Þnh nµo	100	1	0	0	0
+Tèng Kim Chiªu th­ 	2	11	\spr\item\songjin\rescript.spr	383	1	1	Cã thÓ tù lùa chän khu vùc ®Ó ®Õn b¸o danh	100	1	0	0	0
+ThÇn BÝ Lé ChÝ 	2	12	\spr\item\questkey\taskobj076.spr	424	1	1	Mét m¶nh bøc ®Þa ®å S¬n Hµ X· T¾c	1000	0	0	0	0
+Vâ L©m MËt TÞch	2	13	\spr\item\questkey\obj_item_lection.spr	341	1	1	BÝ quyÕt vâ c«ng, cã Ých cho c¸c hiÖp kh¸ch Vâ L©m.	100	1	0	0	0
+TÈy Tñy Kinh	2	14	\spr\item\questkey\obj_item_lection.spr	341	1	1	PhËt gia b¶o ®iÓn, nÕu cã thÓ ®äc hiÓu sÏ t¨ng kinh nghiÖm rÊt nhanh.	100	1	0	0	0
+LÖnh bµi vinh dù Hoµng Kim	2	15	\spr\item\vietnam\leaguematch\icon_league_gold.spr	385	1	1	Sö dông sÏ nhËn ®­îc 500 ®iÓm vinh dù	500	1	1	0	0
+LÖnh bµi vinh dù B¹ch Ng©n	2	16	\spr\item\vietnam\leaguematch\icon_league_silver.spr	385	1	1	Sö dông sÏ nhËn ®­îc 100 ®iÓm vinh dù	100	1	1	0	0
+LÖnh bµi vinh dù Thanh ®ång	2	17	\spr\item\vietnam\leaguematch\icon_league_iron.spr	385	1	1	Sö dông sÏ nhËn ®­îc 50 ®iÓm vinh dù	50	1	1	0	0
+LÖnh bµi vinh dù Hµn thiÕt	2	18	\spr\item\vietnam\leaguematch\icon_league_copper.spr	385	1	1	Sö dông sÏ nhËn ®­îc 10 ®iÓm vinh dù	10	1	1	0	0
+ChiÕn cæ 	2	19	\spr\item\songjin\wardrum.spr	384	1	1	Néi trong 3 phót, ®ång ®éi xung quanh t¨ng 30% Sinh lùc+ Phßng thñ 	100	1	0	50	1
+LÖnh bµi	2	20	\spr\item\songjin\token.spr	385	1	1	Néi trong 3 phót, ®ång ®éi xung quanh t¨ng 30% di chuyÓn, xuÊt chiªu t¨ng 50%.	100	1	0	50	1
+Binh SÜ hiÖu phï 	2	21	\spr\item\songjin\clarion.spr	386	1	1	Gäi thªm 2 NPC hç trî chiÕn ®Êu	100	1	0	50	1
+Tèng Kim Ngo¹i Phæ hoµn	2	22	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, s¸t th­¬ng vËt lý hÖ ngo¹i c«ng t¨ng 50%.	100	1	0	50	1
+Tèng Kim Ngo¹i §éc hoµn	2	23	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, s¸t th­¬ng §éc hÖ ngo¹i c«ng t¨ng 50 ®iÓm.	100	1	0	50	1
+Tèng Kim Ngo¹i B¨ng hoµn	2	24	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, s¸t th­¬ng B¨ng hÖ ngo¹i c«ng t¨ng 100 ®iÓm.	100	1	0	50	1
+Tèng Kim Néi Phæ hoµn	2	25	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, s¸t th­¬ng vËt lý hÖ Néi c«ng t¨ng 100 ®iÓm.	100	1	0	50	1
+Tèng Kim Néi §éc hoµn	2	26	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, §éc s¸t hÖ Néi c«ng t¨ng 50 ®iÓm.	100	1	0	50	1
+Tèng Kim Néi B¨ng hoµn	2	27	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, B¨ng s¸t hÖ Néi c«ng t¨ng 100 ®iÓm.	100	1	0	50	1
+Tèng Kim Néi Háa hoµn	2	28	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, Ho¶ s¸t hÖ Néi c«ng t¨ng 100 ®iÓm.	100	1	0	50	1
+Tèng Kim Néi L«i hoµn	2	29	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, L«i s¸t hÖ Néi c«ng t¨ng 100 ®iÓm.	100	1	0	50	1
+Tèng Kim Tr­êng MÖnh hoµn	2	30	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, sinh mÖnh t¨ng 500 ®iÓm.	100	1	0	50	1
+Tèng Kim Gia Bµo hoµn	2	31	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, tèc ®é di chuyÓn t¨ng 20%	100	1	0	50	1
+Tèng Kim Cao ThiÓm hoµn	2	32	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, nÐ tr¸ch t¨ng 500 ®iÓm.	100	1	0	50	1
+Tèng Kim Cao Trung hoµn	2	33	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, ®é chÝnh x¸c t¨ng 500 ®iÓm.	100	1	0	50	1
+Tèng Kim Phi Tèc hoµn	2	34	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, tèc ®é c«ng kÝch t¨ng 50%.	100	1	0	50	1
+Tèng Kim Phæ Phßng hoµn	2	35	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng Ngù t¨ng 50%.	100	1	0	50	1
+Tèng Kim B¨ng Phßng hoµn	2	36	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng B¨ng t¨ng 50%.	100	1	0	50	1
+Tèng Kim L«i phßng hoµn	2	37	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng L«i t¨ng 50%.	100	1	0	50	1
+Tèng Kim Háa phßng hoµn	2	38	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng Háa t¨ng 50%.	100	1	0	50	1
+Tèng Kim §éc phßng hoµn	2	39	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng §éc t¨ng 50%.	100	1	0	50	1
+Bå c©u 	2	40	\spr\item\songjin\dove.spr	411	1	1	Dïng th«ng b¸o cho ®ång ®éi biÕt täa ®é cña m×nh.	100	1	0	50	1
+Kh¸ng §¬n Chi Gi¸c 	2	41	\spr\item\songjin\clarion.spr	386	1	1	Néi trong 3 phót, c¸c ®èi thñ xung quanh bÞ gi¶m kh¶ n¨ng ph¶n ®ßn 20%.	100	1	0	50	1
+Cµn Kh«n T¹o Hãa §an (®¹i) 	2	42	\spr\item\medecine\obj-potion13.spr	311	1	1	Mçi nöa gi©y sinh lùc håi phôc: 2000 ®iÓm <enter>Mçi nöa gi©y Néi lùc håi phôc: 2000 ®iÓm	100	1	0	10	1
+Cµn Kh«n T¹o Hãa §an (trung) 	2	43	\spr\item\medecine\obj-potion13.spr	311	1	1	Mçi nöa gi©y sinh lùc håi phôc: 1000 ®iÓm <enter>Mçi nöa gi©y Néi lùc håi phôc: 1000 ®iÓm	100	1	0	10	1
+Cµn Kh«n T¹o Hãa §an (tiÓu) 	2	44	\spr\item\medecine\obj-potion13.spr	311	1	1	Mçi nöa gi©y sinh lùc håi phôc: 500 ®iÓm <enter>Mçi nöa gi©y Néi lùc håi phôc: 500 ®iÓm	100	1	0	10	1
+Tiªn Th¶o Lé 	2	45	\spr\item\medecine\xiancaolu.spr	370	1	1	Néi 1 giê, kinh nghiÖm t¨ng gÊp ®«i (t¸i sö dông v« hiÖu) 	5	1	0	0	1
+Thiªn s¬n  B¶o Lé 	2	46	\spr\item\medecine\tianshanyulu.spr	370	1	1	Néi 1 giê, May m¾n t¨ng 10 ®iÓm. (t¸i sö dông v« hiÖu) 	5	1	1	0	1
+B¸ch Qu¶ Lé 	2	47	\spr\item\medecine\baiguolu.spr	370	1	1	Néi 1 giê, Kh¸ng tÊt c¶ t¨ng 15 ®iÓm. (t¸i sö dông v« hiÖu) 	5	1	1	0	1
+QuÕ Hoa Töu	2	48	\spr\item\medecine\zq_icon_004.spr	376	1	1	Néi 30 phót, m×nh cïng ®ång ®éi t¨ng 20 ®iÓm May m¾n.	800	1	1	0	0
+Tiªn Th¶o Lé §Æc BiÖt 	2	49	\spr\item\medecine\xiancaolu_sp.spr	370	1	1	Néi 6 giê, kinh nghiÖm t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	5	1	0	0	1
+M¶nh S¬n Hµ X· T¾c (100) 	2	50	\spr\item\questkey\obj_item_shanhe.spr	351	1	1	NhÊn chuét ph¶i sÏ nhËn ®­îc thªm 100 tÊm 	0	1	1	0	0
+M¶nh S¬n Hµ X· T¾c (1000)	2	51	\spr\item\questkey\obj_item_shanhe.spr	351	1	1	Chuét ph¶i sö dông ®Ó nhËn ®­îc 1000 m¶nh b¶n ®å s¬n hµ x· t¾c.	0	1	1	0	0
+§å Phæ Më Réng R­¬ng	2	52	\spr\item\script\item_huangjintupu.spr	38	1	1	Sau khi sö dông sÏ më thªm 1 r­¬ng míi.	100	1	0	0	0
+B¹ch C©u Hoµn kü n¨ng 120	2	53	\spr\item\medecine\baijuwan_skill.spr	19	1	1	N©ng cao ®é tu luyÖn cña kü n¨ng cÊp 120.	0	1	0	0	0
+ThiÕt La H¸n	2	54	\spr\item\questkey\obj_item_lection.spr	341	1	1	Mét ng­êi s¾t La H¸n di ®éng, ®¸nh ng· sÏ thu ®­îc kinh nghiÖm thùc chiÕn.	100	1	0	0	0
+Bµn Nh­îc T©m Kinh	2	55	\spr\item\questkey\obj_item_lection.spr	341	1	1	PhËt gia B¶o ®iÓn, th­êng xuyªn tông niÖm sÏ trõ ®­îc c¸c ®iÓm ©m kinh nghiÖm.	100	1	0	0	0
+X¸ lîi T©m Kinh	2	56	\spr\item\questkey\obj_item_lection.spr	341	1	1	ChÞu khã tu t©m tông niÖm sÏ gi¶m 1 trÞ PK.	100	1	0	0	0
+T©m T©m T­¬ng ¸nh phï 	2	57	\spr\item\obj_item_heart.spr	346	1	1	Sö dông lËp tøc vÒ bªn c¹nh ng­êi tri kû.	10000	1	0	0	0
+Hoa hång	2	58	\spr\item\questkey\flower.spr	330	1	1	SÏ t¹o nªn mét trËn m­a hoa hång	10000	1	0	50	1
+BÝ kÝp tuyÖt häc cÊp 120	2	59	\spr\item\task\stunt.spr	341	1	1	BÝ quyÕt th­îng thõa cÊp 120. Chuyªn t©m nghiªn cøu sÏ lÜnh héi ®­îc tuyÖt kü vâ c«ng.	100	1	0	0	0
+Ph¸o Hoa	2	60	\spr\item\magic\icon_item_baozhu.spr	334	1	1	VËt phÈm kh«ng thÓ thiÕu trong nh÷ng ngµy lÔ tiÕt	50	1	0	50	1
+Long HuyÕt Hoµn	2	61	\spr\item\questkey\taskobj018.spr	41	1	1	T¨ng giíi h¹n v­ît ¶i trong ngµy. Cã t¸c dông ®¶ th«ng kinh m¹ch, ®Èy lïi ®éc tè, gióp luyÖn c«ng hiÖu qu¶ h¬n	0	1	1	0	0
+Kim Chi ChiÕn Hån 	2	62	\spr\item\questkey\003.spr	388	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Méc Chi ChiÕn Hån 	2	63	\spr\item\questkey\003.spr	389	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Thñy Chi ChiÕn Hån 	2	64	\spr\item\questkey\003.spr	390	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Háa Chi ChiÕn Hån 	2	65	\spr\item\questkey\003.spr	391	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Thæ Chi ChiÕn Hån 	2	66	\spr\item\questkey\003.spr	392	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Kim Chi Hé gi¸p  	2	67	\spr\item\questkey\003.spr	393	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Méc Chi Hé gi¸p  	2	68	\spr\item\questkey\003.spr	394	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Thñy Chi Hé gi¸p  	2	69	\spr\item\questkey\003.spr	395	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Háa Chi Hé gi¸p  	2	70	\spr\item\questkey\003.spr	396	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Thæ Chi Hé gi¸p  	2	71	\spr\item\questkey\003.spr	397	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Kim Chi Lîi NhËn	2	72	\spr\item\questkey\003.spr	398	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Méc Chi Lîi NhËn	2	73	\spr\item\questkey\003.spr	399	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Thñy Chi Lîi NhËn	2	74	\spr\item\questkey\003.spr	400	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Háa Chi Lîi NhËn	2	75	\spr\item\questkey\003.spr	401	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Thæ Chi Lîi NhËn	2	76	\spr\item\questkey\003.spr	402	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+TËt phong ngoa 	2	77	\spr\item\questkey\003.spr	406	1	1	NhÆt ®­îc sö dông ngay 	1	0	0	0	0
+Tam Thanh Chi KhÝ 	2	78	\spr\item\questkey\003.spr	407	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+B¹ch C©u Hé uyÓn	2	79	\spr\item\questkey\003.spr	408	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+HËu NghÖ Chi Nh·n 	2	80	\spr\item\questkey\003.spr	409	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+ThÇn bÝ vËt phÈm 	2	81	\spr\item\questkey\003.spr	410	1	1	NhÆt ®­îc sö dông ngay	1	0	0	0	0
+Nh¹c V­¬ng KiÕm lÔ bao	2	82	\spr\item\obj_item_jixiang.spr	347	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 1 Nh¹c V­¬ng KiÕm	0	1	0	0	0
+S¸t Thñ Gi¶n lÔ hép	2	83	\spr\item\script\item_chrismasbox.spr	377	1	1	Chuét ph¶i sö dông ®Ó nhËn ®­îc 2 s¸t thñ gi¶n	0	1	0	0	0
+S¸ch b¶o toµn kü n¨ng	2	84	\spr\item\questkey\quyuanmifang.spr	368	1	1	Dïng ®Ó lùa chän b¶o toµn ®¼ng cÊp kü n¨ng 90 sau khi chuyÓn ®æi m«n ph¸i.	0	1	0	0	0
+Ngò Hoa Ngäc Lé Hoµn	2	85	\spr\item\medecine\obj-potion13.spr	311	1	1	§ång thêi håi phôc 5000 ®iÓm Sinh lùc vµ Néi lùc<enter>Phôc håi sinh lùc mçi nöa gi©y: +500<enter>Phôc håi néi lùc mçi nöa gi©y: +500	0	1	0	0	1
+Cöu ChuyÓn Hoµn Hån ®an	2	86	\spr\item\medecine\obj-potion03.spr	310	1	1	LËp tøc håi phôc 5000 ®iÓm sinh lùc<enter>Phôc håi sinh lùc mçi nöa gi©y: +500	0	1	0	0	1
+¤ ®Çu Hoµn thÇn ®an	2	87	\spr\item\medecine\obj-potion08.spr	312	1	1	LËp tøc håi phôc 5000 ®iÓm Néi lùc<enter>Phôc håi néi lùc mçi nöa gi©y: +500	0	1	0	0	1
+B¹ch CÇu Hoµn	2	88	\spr\item\medecine\baijuwan_small.spr	19	1	1	Sö dông thu ®­îc 8 tiÕng ñy th¸c rêi m¹ng	100	1	0	0	0
+Hçn Th¹ch LiÖt	2	89	\spr\item\script\gc_npc_01.spr	336	2	2	Sö dông nh÷ng viªn ®¸ to c«ng ph¸ thµnh m«n ®èi ph­¬ng	10000	1	0	0	0
+NghiÖt Long Xung Xa	2	90	\spr\item\script\gc_npc_02.spr	336	2	2	Sö dông nh÷ng th©n gç to c«ng ph¸ thµnh m«n ®èi ph­¬ng	10000	1	0	0	0
+V©n Kú Binh phï 	2	91	\spr\item\script\gc_npc_03.spr	336	2	2	Gäi thªm 1 NPC cÇm cê, phôc håi sinh lùc cho c¸c ®ång ®éi xung quanh	10000	1	0	0	0
+Ngoan Cæ Binh phï 	2	92	\spr\item\script\gc_npc_04.spr	336	2	2	Gäi thªm 1 NPC ®¸nh trèng, t¨ng thªm tinh thÇn chiÕn ®Êu cho ®ång ®éi	10000	1	0	0	0
+NhÊt Kû Cµn Kh«n Phï 	2	93	\spr\item\script\zhongqiu_jieri\gongxuanlingpai.spr	41	1	1	Nh©n sÜ vâ l©m nµo cã ®­îc b¸u vËt nµy sÏ nh­ hæ thªm c¸nh	0	1	0	0	0
+Cµn Kh«n Song TuyÖt Béi	2	94	\spr\item\leaguematch\qiankunshuangjuepei.spr	41	1	1	§éc C« V« §Þch	0	1	0	0	0
+Tiªn Th¶o Lé Nh©n Ba	2	95	\spr\item\medecine\xiancaolu.spr	370	1	1	Néi 1 giê, kinh nghiÖm t¨ng gÊp ba lÇn (t¸i sö dông v« hiÖu) 	5	1	0	0	1
+Tiªn Th¶o Lé §Æc BiÖt Nh©n Ba	2	96	\spr\item\medecine\xiancaolu_sp.spr	370	1	1	Néi 6 giê, kinh nghiÖm t¨ng gÊp ba lÇn (t¸i sö dông v« hiÖu)	5	1	0	0	1
+Tiªn Th¶o Lé Nh©n Bèn	2	97	\spr\item\medecine\xiancaolu.spr	370	1	1	Néi 1 giê, kinh nghiÖm t¨ng gÊp bèn lÇn (t¸i sö dông v« hiÖu) 	5	1	0	0	1
+Tiªn Th¶o Lé §Æc BiÖt Nh©n Bèn	2	98	\spr\item\medecine\xiancaolu_sp.spr	370	1	1	Néi 6 giê, kinh nghiÖm t¨ng gÊp bèn lÇn (t¸i sö dông v« hiÖu)	5	1	0	0	1
+ThÎ ®æi tªn	2	99	\spr\item\questkey\quyuanmifang.spr	41	1	1	Mang vËt phÈm nµy ®Õn gÆp LÔ Quan ®Ó tiÕn hµnh thay ®æi tªn nh©n vËt.	5	1	0	0	0
+§¹i Thµnh BÝ KÝp 90	2	100	\spr\item\questkey\quyuanmifang.spr	41	1	1	Sö dông cã thÓ häc ®­îc mét kü n¨ng 90 cã ®¼ng cÊp 20.	5	1	0	0	0
+Ngò Hµnh Phï 	2	101	\spr\item\script\wuxingfu.spr	41	1	1	Sau khi sö dông cã thÓ nhËn ®­îc thuèc hç trî nhiÖm vô Thiªn B¶o Khè.	0	1	0	0	0
+TriÖt Kim Phï 	2	102	\spr\item\script\chejinfu.spr	41	1	1	Sö dông trong b¶n ®å Thiªn B¶o Khè, sÏ lµm gi¶m ®i 50% kh¸ng vËt lý cña B¶o Khè Thñ Hé Gi¶ ë trong ph¹m vi nhÊt ®Þnh.	0	1	0	50	1
+TriÖt Méc Phï 	2	103	\spr\item\script\chemufu.spr	41	1	1	Sö dông trong b¶n ®å Thiªn B¶o Khè, sÏ lµm gi¶m ®i 50% kh¸ng ®éc cña B¶o Khè Thñ Hé Gi¶ ë trong ph¹m vi nhÊt ®Þnh.	0	1	0	50	1
+TriÖt Thñy Phï 	2	104	\spr\item\script\cheshuifu.spr	41	1	1	Sö dông trong b¶n ®å Thiªn B¶o Khè, sÏ lµm gi¶m ®i 50% kh¸ng b¨ng cña B¶o Khè Thñ Hé Gi¶ ë trong ph¹m vi nhÊt ®Þnh.	0	1	0	50	1
+TriÖt Háa Phï 	2	105	\spr\item\script\chehuofu.spr	41	1	1	Sö dông trong b¶n ®å Thiªn B¶o Khè, sÏ lµm gi¶m ®i 50% kh¸ng háa cña B¶o Khè Thñ Hé Gi¶ ë trong ph¹m vi nhÊt ®Þnh.	0	1	0	50	1
+TriÖt Thæ Phï 	2	106	\spr\item\script\chetufu.spr	41	1	1	Sö dông trong b¶n ®å Thiªn B¶o Khè, sÏ lµm gi¶m ®i 50% kh¸ng l«i cña B¶o Khè Thñ Hé Gi¶ ë trong ph¹m vi nhÊt ®Þnh.	0	1	0	50	1
+Thiªn b¶o khè lÖnh	2	107	\spr\item\script\tianbaokuling.spr	41	1	1	T¨ng giíi h¹n lµm nhiÖm vô Thiªn B¶o Khè trong ngµy.	0	1	0	0	0
+Kho¸i M· Gia Tiªn	2	108	\spr\item\longmenbiaoju\jiasufu.spr	41	1	1	Sö dông gÇn Tiªu Xa, t¨ng 100% tèc ®é di chuyÓn cña Tiªu Xa, duy tr× 15 gi©y, thêi gian chê 3 phót	0	1	0	50	0
+Kiªn BÊt Kh¶ Táa 	2	109	\spr\item\longmenbiaoju\jiaxuefu.spr	41	1	1	Sö dông gÇn Tiªu Xa, håi phôc 100% m¸u cña Tiªu Xa, thêi gian chê 3 phót	0	1	0	50	0
+Tiªu Xa Di VÞ 	2	110	\spr\item\longmenbiaoju\gedangfu.spr	41	1	1	Sö dông gÇn Tiªu Xa, lµm cho Tiªu Xa dÞch chuyÓn ®Õn vÞ trÝ cña ng­êi ch¬i, thêi gian chê 3 phót	0	1	0	50	0
+NÕn C¸t T­êng	2	111	\spr\item\script\zhongqiu_jieri\yunyoulazhu.spr	370	1	1	Nh©n ®«i kinh nghiÖm trong vßng 2 giê.	5	1	0	0	1
+NÕn Nh­ ý 	2	112	\spr\item\script\zhongqiu_jieri\xianwulazhu.spr	370	1	1	Nh©n ®«i kinh nghiÖm trong vßng 12 giê.	5	1	0	0	1
+Bæ huyÕt ®¬n	2	113	\spr\item\worldcup\buxuedan.spr	370	1	1	Båi bæ søc kháe, t¨ng c­êng thÓ lùc.	5	1	0	0	0
+B¶o R­¬ng Tö Kho¸ng	2	114	\spr\item\birthday_jieri\200905\tiancibaoxiang.spr	433	1	1	R­¬ng ch©u b¸u, bªn trong chøa 50 Tö Kho¸ng.	100000	1	0	0	0
+Méc Nh©n Phï 	2	115	\spr\item\task\corpse.spr	413	1	1	Sö dông sÏ triÖu håi 1 méc nh©n bÊt kú ®Ó luyÖn c«ng, khi luyÖn xong sÏ ®­îc nhiÒu ®iÓm kinh nghiÖm thùc chiÕn kü n¨ng.	5	1	0	50	1
+LÖnh Bµi Kho B¸u	2	116	\spr\item\questkey\taskobj126.spr	340	1	1	<color=yellow>§µo Kho B¸u<color><enter>Hç trî khi t×m kho b¸u	2000	1	0	0	0
+S¸ch KÜ N¨ng CÊp 150	2	117	\spr\item\leaguematch\ronghezhenjin.spr	41	1	1	NhÊn chuét ph¶i sö dông cã thÓ nhËn ®­îc mét cuèn s¸ch kü n¨ng cÊp 150 cña m«n ph¸i.	0	0	0	0	0
+§¹i Thµnh BÝ KÝp 120	2	118	\spr\item\questkey\quyuanmifang.spr	368	1	1	Sö dông cã thÓ n©ng ®­îc mét kÜ n¨ng 120 lªn ®¼ng cÊp <color=yellow>20.	0	1	0	0	0
+§¹i Thµnh BÝ KÝp 150	2	119	\spr\item\questkey\quyuanmifang.spr	368	1	1	Sö dông cã thÓ n©ng ®­îc mét kÜ n¨ng 150 lªn ®¼ng cÊp <color=yellow>20.	0	1	0	0	0
+Tói Hµnh Trang 	2	120	\spr\item\questkey\003.spr	410	1	1	Dïng ®Ó gia h¹n tói hµnh trang thªm.NhÊn chuét ph¶i ®Ó sö dông.	1	0	0	0	0
+B¶o Hép ThÇn BÝ	2	121	\spr\item\script\biyishuangfei.spr	41	1	1	"<bclr=white> <color=red> ""ThÇn BÝ B¶o Hép, kh«ng ai biÕt sö dông nh­ thÕ nµo""."	0	0	0	0	0
+B¹ch C©u Hoµn kü n¨ng 122	2	96	\spr\item\medecine\baijuwan_skill.spr	19	1	1	N©ng cao ®é tu luyÖn cña kü n¨ng cÊp 150.	0	1	0	0	0

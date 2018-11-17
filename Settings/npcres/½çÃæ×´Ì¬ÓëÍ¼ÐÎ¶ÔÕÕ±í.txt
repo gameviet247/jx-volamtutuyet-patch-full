@@ -1,0 +1,7 @@
+StateName	SprFileLink
+TeamOpen	\spr\npcres\style\menustate01.spr
+TradeOpen	\spr\npcres\style\menustate02.spr
+Trading	\spr\npcres\style\menustate03.spr
+Sleep	\spr\npcres\style\menustate04.spr
+Enchase	
+ViewShop	\spr\npcres\style\menustate03.spr

@@ -1,0 +1,3 @@
+MISSION	SCRIPT
+1	\script\missions\mission01.lua
+2	\script\missions\mission02.lua

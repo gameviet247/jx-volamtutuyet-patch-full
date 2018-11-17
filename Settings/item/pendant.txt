@@ -1,0 +1,21 @@
+Name	ItemGenre	DetailType	ParticularType	Image	ObjDrop	Width	Height	Descript	Series	Price	Level	Stack	Magic1	Min1	Max1	Magic2	Min2	Max2	Magic3	Min3	Max3	Magic4	Min4	Max4	Magic5	Min5	Max5	Magic6	Min6	Max6	Magic7	Min7	Max7	Require1	Data1	Require2	Data2	Require3	Data3	Require4	Data4	Require5	Data5	Require6	Data6
+Hu©n Y H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist01.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ cá Hu©n Y, d©n gian th­êng dïng. 		100	1	0																						36	1	38	1								
+M¹t LÞ H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist02.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ hoa Lµi, dïng rÊt phæ biÕn. 		400	2	0																						36	7	38	1								
+Nhò H­¬ng H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist03.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ c©y Nhò h­¬ng, phó gia th­êng dïng. 		900	3	0																						36	14	38	1								
+Lan Hoa H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist04.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ hoa Lan, mïi vÞ thanh nh·. 		1600	4	0																						36	20	38	1								
+Hîp Hoan H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist05.spr	36	1	2	Lo¹i h­¬ng liÖu cao cÊp ®­îc tinh chÕ tõ nhiÒu lo¹i d­îc th¶o, dïng trong nh÷ng dÞp träng ®¹i. 		2500	5	0																						36	27	38	1								
+Tö Ph­¬ng H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist06.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ hoa Tö Ph­¬ng, quan gia thÝch dïng. 		3600	6	0																						36	34	38	1								
+TrÇm §µn H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist07.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc ®Æc chÕ tõ c©y TrÇm §µn, Hoµng gia thÝch dïng. 		4900	7	0																						36	40	38	1								
+Tiªn X¹ H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist08.spr	36	1	2	Lo¹i h­¬ng liÖu ®­îc ®Æc chÕ tõ c¸c lo¹i X¹ h­¬ng, Hoµng gia thÝch dïng. 		6400	8	0																						36	47	38	1								
+Giµ Nam H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist09.spr	36	1	2	Lo¹i h­¬ng liÖu chØ cã trong nh÷ng tæ kiÕn ®Æc hiÕm, quý phÈm trong hµng quý phÈm. 		8100	9	0																						36	54	38	1								
+Long Tiªn H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist10.spr	36	1	2	Long Tiªn, lo¹i h­¬ng liÖu cùc quý, b¶o vËt cña thÕ gian. 		10000	10	0																						36	60	38	1								
+Lôc Du Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist11.spr	36	1	2	Gäi lµ Ngäc béi, thùc chÊt chØ lµ mét lo¹i ®¸ ®Ñp. 		100	1	0																						36	1	38	0								
+Kinh B¹ch Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist12.spr	36	1	2	Lo¹i ngäc béi th«ng th­êng, th­ sinh nghÌo nhÊt còng cã thÓ ®eo. 		400	2	0																						36	7	38	0								
+§µo Hoa Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist13.spr	36	1	2	S¾c nh­ hoa §µo, thÝch hîp víi nh÷ng thiÕu n÷ nhu m×. 		900	3	0																						36	14	38	0								
+Mai Hoa Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist14.spr	36	1	2	Trong ngäc cã kh¾c nh÷ng hoa v¨n hoa mai, rÊt khã t×m thÊy. 		1600	4	0																						36	20	38	0								
+Ngò S¾c Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist15.spr	36	1	2	Tuy ngò s¾c kh«ng thÓ hiÖn râ nÐt, nh­ng còng lµ mét lo¹i b¶o ngäc hiÕm thÊy. 		2500	5	0																						36	27	38	0								
+Thanh Ngäc Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist16.spr	36	1	2	§­îc mµi tõ lo¹i Thanh Ngäc Quý hiÕm, c¸c v¨n nh©n Nho sÜ th­êng thÝch ®eo. 		3600	6	0																						36	34	38	0								
+BÝch Ngäc Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist17.spr	36	1	2	Lo¹i BÝch Ngäc Ngäc Béi tinh quý, V­¬ng T«n c«ng tö kh«ng ai lµ kh«ng thÝch. 		4900	7	0																						36	40	38	0								
+MÆc Ngäc Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist18.spr	36	1	2	Mµi tõ lo¹i MÆc Ngäc quý hiÕm, mµu s¾c thanh nh·, hµm chøa linh khÝ. 		6400	8	0																						36	47	38	0								
+Hoµng Ngäc Ngäc Béi	0	9	1	\spr\item\equip\waist\obj-waist19.spr	36	1	2	Mµi tõ lo¹i Hoµng Ngäc quý hiÕm, mµu s¾c thanh nh·, hµm chøa linh khÝ. 		8100	9	0																						36	54	38	0								
+D­¬ng ChØ B¹ch Ngäc 	0	9	1	\spr\item\equip\waist\obj-waist20.spr	36	1	2	Lo¹i ngäc quý hiÕm nhÊt trong c¸c lo¹i ngäc, chØ Hoµng ®Õ míi cã. 		10000	10	0																						36	60	38	0								
